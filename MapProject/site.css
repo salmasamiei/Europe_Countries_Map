@@ -1,0 +1,26 @@
+
+    body{
+        background-image:url(/images/back.jpg);
+        padding:0px;
+        margin:0px;
+        position:relative;
+    }
+    nav {
+        line-height:30px;
+        height:800px;
+        width:320px;
+        float:left;
+        padding:5px;	      
+}
+    .img{
+         position: absolute;
+         top: auto;
+         right: auto;
+         z-index:1000
+    }
+    .imgc{
+        position: absolute;
+        top: auto;
+        right:auto;
+        z-index:1001
+    }
